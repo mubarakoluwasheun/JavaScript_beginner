@@ -17,9 +17,14 @@ button {
 	color: white;
 	font-size: bold;
 	padding: 5px 10px;
-	border: none;
+	border: 1px solid #5f9341;
 	margin-top: 5px;
 	font-weight: bold;
+}
+
+#delete-btn {
+	background: white;
+	color: #5f9341
 }
 
 ul {
