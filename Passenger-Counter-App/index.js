@@ -11,7 +11,6 @@ function increment() {
 function save() {
 	let countSave = count + dash
 	saveEl.textContent += countSave
-	console.log(count)
 	countEl.textContent = 0
 	count = 0
 }
